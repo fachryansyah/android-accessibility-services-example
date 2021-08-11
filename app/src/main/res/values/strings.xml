@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Accessibility Service Example</string>
+    <string name="accessibility_service_label">Accessibility Service Example</string>
+    <string name="accessibility_service_description">Just a Example of Accessibility Service implementation create by fahriansyah</string>
+    <string name="power">Power</string>
+    <string name="volume">Volume Up</string>
+    <string name="scroll">Scroll Down</string>
+    <string name="swipe">Swipe Right</string>
+    <string name="simulateTouch">Simulate Touch</string>
+</resources>
