@@ -2,12 +2,13 @@
 <p align="center">
   <img src="https://github.com/fachryansyah/android-accessibility-services-example/blob/master/demo.gif" />
 </p><br>
-This is an example implementation of android accessibility services with 5 Sample Actions such as: 
-- Simulate Power button
-- Simulate Volume up
-- Simulate Scroll down
-- Simulate Swipe right
-- Simulate Touch with coordinat X Y
+
+This is an example implementation of android accessibility services with 5 Sample Actions such as:
+- Simulate Power button <br>
+- Simulate Volume up <br>
+- Simulate Scroll down <br>
+- Simulate Swipe right <br>
+- Simulate Touch with coordinat X Y <br>
 
 ## Instalation
 1. Clone the project
